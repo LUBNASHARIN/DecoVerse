@@ -15,8 +15,7 @@
 ### Hosted Project Link
 [mention your project hosted link here]
 
-### Project Description
-[2-3 lines about what your project does]
+### This interactive event rating app lets users give feedback using animated emojis, fun comments, and engaging sounds. It’s designed for all types of events, making the rating experience lively, fun, and memorable.”
 
 ### The Problem statement
 [What problem are you solving?]
