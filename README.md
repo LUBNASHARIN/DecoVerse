@@ -11,7 +11,9 @@
 - Member 1: LUBNA SHARIN P - GOVERNMENT ENGINEERING COLLEGE IDUKKI
 
 ### Hosted Project Link
-[mention your project hosted link here]
+
+-  https://lubnasharin.github.io/DecoVerse/
+
 
 ### This interactive event rating app lets users give feedback using animated emojis, fun comments, and engaging sounds. It’s designed for all types of events, making the rating experience lively, fun, and memorable.”
 
@@ -51,7 +53,7 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[git clone https://github.com/LUBNASHARIN/DecoVerse.git]
 ```
 
 #### Run
