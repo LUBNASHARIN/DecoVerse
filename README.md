@@ -25,13 +25,11 @@
 
 ## Technical Details
 
-### Technologies/Components Used
-
-**For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+### For Software:
+### Languages used: HTML, CSS, JavaScript
+### Frameworks used: None (Vanilla JS), simple responsive design
+### Libraries used: Howler.js (for sound management), Animate.css (for animations)
+### Tools used: VS Code, Git, Chrome DevTools
 
 **For Hardware:**
 - Main components: [List main components]
