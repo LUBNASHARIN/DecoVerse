@@ -26,10 +26,10 @@
 ## Technical Details
 
 ### For Software:
-### Languages used: HTML, CSS, JavaScript
-### Frameworks used: None (Vanilla JS), simple responsive design
-### Libraries used: Howler.js (for sound management), Animate.css (for animations)
-### Tools used: VS Code, Git, Chrome DevTools
+Languages used: HTML, CSS, JavaScript
+Frameworks used: None (Vanilla JS), simple responsive design
+Libraries used: Howler.js (for sound management), Animate.css (for animations)
+Tools used: VS Code, Git, Chrome DevTools
 
 **For Hardware:**
 - Main components: [List main components]
