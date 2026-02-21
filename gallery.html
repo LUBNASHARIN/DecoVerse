@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DecorVerse Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .gallery-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery-item {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            transition: transform 0.3s;
+        }
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body class="app-body">
+    <h1 style="text-align:center; margin-top:20px;">Top Rated Decorations 🌟</h1>
+    <div class="gallery-container" id="gallery"></div>
+
+    <script>
+        const gallery = document.getElementById("gallery");
+        const topImages = JSON.parse(localStorage.getItem("topImages") || "[]");
+
+        if(topImages.length === 0){
+            gallery.innerHTML = "<p style='color:white; font-size:18px;'>No top-rated decorations yet. Upload and rate your decor first!</p>";
+        } else {
+            topImages.forEach(src => {
+                const img = document.createElement("img");
+                img.src = src;
+                img.classList.add("gallery-item");
+                gallery.appendChild(img);
+            });
+        }
+    </script>
+</body>
+</html>

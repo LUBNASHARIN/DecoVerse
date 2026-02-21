@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DecorVerse - Rate Your Decoration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="app-body">
+
+<div class="container">
+    <h1>DecorVerse</h1>
+
+    <h3>Upload Your Decorated Room 🎉</h3>
+
+    <select id="eventType">
+        <option value="birthday">Birthday</option>
+        <option value="wedding">Wedding</option>
+        <option value="corporate">Corporate Event</option>
+        <option value="festival">Festival</option>
+        <option value="romantic">Romantic Setup</option>
+    </select>
+
+    <br><br>
+
+    <input type="file" id="imageUpload" accept="image/*">
+
+    <br><br>
+
+    <button onclick="rateDecoration()">Rate My Decoration</button>
+
+    <div id="result"></div>
+    <div id="comment" class="comment"></div>
+</div>
+
+<audio id="popSound" src="pop.mp3"></audio>
+
+<script src="script.js"></script>
+<br><br>
+<a href="gallery.html" style="color:white; font-size:18px; text-decoration:underline;">See Top Rated Decorations 🌟</a>
+</body>
+</html>
