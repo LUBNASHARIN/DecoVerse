@@ -17,8 +17,7 @@
 
 ### This interactive event rating app lets users give feedback using animated emojis, fun comments, and engaging sounds. It’s designed for all types of events, making the rating experience lively, fun, and memorable.”
 
-### The Problem statement
-[What problem are you solving?]
+### “Event feedback is often boring, impersonal, or difficult to engage with. Users struggle to express their opinions in a fun and interactive way, and organizers miss out on meaningful, enjoyable feedback.”
 
 ### The Solution
 [How are you solving it?]
