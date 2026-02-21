@@ -6,11 +6,9 @@
 
 ## Basic Details
 
-### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: LUBNA SHARIN P - GOVERNMENT ENGINEERING COLLEGE IDUKKI
 
 ### Hosted Project Link
 [mention your project hosted link here]
@@ -61,15 +59,7 @@ List the key features of your project:
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
 
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
