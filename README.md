@@ -31,20 +31,19 @@
 - Libraries used: Howler.js (for sound management), Animate.css (for animations)
 - Tools used: VS Code, Git, Chrome DevTools
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Animated Intro: [Engaging opening animation to welcome users.]
+- Persistent Feedback:[ Comments and animations stay visible to make the experience enjoyable.]
+- Floating Emojis: [ Fun, dynamic emojis that float across the screen for visual appeal]
+- Interactive Rating: [ Users can rate events from 1–5 with instant feedback]
+- Sound Effects: [Distinct sounds for each rating (pop, magic chime, fireworks, applause) to enhance user experience]
+- Universal Event Compatibility: [Suitable for all kinds of events, not limited to a specific theme]
 
 ---
 
